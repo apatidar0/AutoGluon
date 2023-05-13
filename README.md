@@ -1,4 +1,4 @@
-# AutoGluon
+AutoGluon
 
 Open source AutoGluon library for AutoML 
 In January 2020, AWS launched an open-source library called AutoGluon the library behind Sagemaker Autopilot.
